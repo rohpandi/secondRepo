@@ -5,7 +5,7 @@ import java.util.Collections;
 public class ArrayListEx1 {
 
 	public static void main(String[] args) {
-		Sysyem.out.println("Rohan edited");
+		System.out.println("Rohan edited");
 		ArrayList<Integer> list1 = new ArrayList<Integer>();
         list1.add(20);
         list1.add(30);
